@@ -1,4 +1,4 @@
-# This is a prototype project I built while exploring n8n + Supabase + OpenAI workflows. Not production-ready, but conceptually complete.
+This is a prototype project I built while exploring n8n + Supabase + OpenAI workflows. Not production-ready, but conceptually complete.
 
 # AI-Powered Document Q&A Agent using n8n, Supabase, and OpenAI
 
@@ -37,7 +37,7 @@ Whenever a document is created or updated, the system:
 
 ---
 
-## 🔄 Flow of Execution
+##  Flow of Execution
 
 1. **Trigger**: Google Drive file is created/updated
 2. **Download**: Document is downloaded and parsed
