@@ -1,3 +1,5 @@
+# This is a prototype project I built while exploring n8n + Supabase + OpenAI workflows. Not production-ready, but conceptually complete.
+
 # AI-Powered Document Q&A Agent using n8n, Supabase, and OpenAI
 
 This project demonstrates an end-to-end AI assistant that performs **question-answering operations** on documents stored in **Google Drive**.
