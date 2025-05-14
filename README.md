@@ -48,7 +48,12 @@ Whenever a document is created or updated, the system:
 7. **Memory**: Supabase also stores multi-turn chat memory for better responses
 
 ---
+##  Getting Started
 
+1. Clone the repo
+2. Import the workflow in n8n
+3. Connect Supabase, Google Drive, and OpenAI
+4. Drop a Google Doc into the folder and ask questions!
 
 
 
