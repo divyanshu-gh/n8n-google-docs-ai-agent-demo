@@ -1,4 +1,4 @@
-This is a prototype project I built while exploring n8n + Supabase + OpenAI workflows. Not production-ready, but conceptually complete.
+This is a prototype project I built while exploring n8n + Supabase + OpenAI workflows.
 
 # AI-Powered Document Q&A Agent using n8n, Supabase, and OpenAI
 
